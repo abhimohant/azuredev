@@ -20,6 +20,6 @@ steps:
   # Install dependencies
   - script: |
       python compare2lists.py
-    displayName: 'Compare two lists'
+    displayName: 'Compare lists'
 
 
